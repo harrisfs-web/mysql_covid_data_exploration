@@ -1,6 +1,8 @@
 # MySQL Data Exploration for Covid-19 Data
 
-This repository contains SQL queries designed to explore and analyze Covid-19 data using MySQL. The queries utilize various SQL features such as joins, common table expressions (CTEs), window functions, aggregate functions, and creating views. Below is an overview of the queries and their purpose:
+This repository contains SQL queries designed to explore and analyze Covid-19 data using MySQL. The data were sourced from https://ourworldindata.org/covid-deaths and where pre-processed using Excel to split in two separate datasets
+
+The queries utilize various SQL features such as joins, common table expressions (CTEs), window functions, aggregate functions, and creating views. Below is an overview of the queries and their purpose:
 
 ## Queries Overview
 
@@ -54,4 +56,3 @@ To replicate this data exploration:
 
 This repository serves as a resource for exploring and analyzing Covid-19 data using SQL, focusing on understanding infection rates, death rates, and vaccination progress across different locations and time periods.
 
-For any questions or suggestions, feel free to contact [your contact information].
