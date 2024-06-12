@@ -2,6 +2,8 @@
 
 This repository contains SQL queries designed to explore and analyze Covid-19 data using MySQL. The data were sourced from https://ourworldindata.org/covid-deaths and where pre-processed using Excel to split in two separate datasets. After exploring data with MySQL a connection was made using the performed queries with PowerBI to create a report. Screenshots of the report can be found below.
 
+Data are from the start of the pandemic up to 04/07/2021.
+
 ## Data Report
 
 
