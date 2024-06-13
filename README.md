@@ -45,20 +45,20 @@ The queries utilize various SQL features such as joins, common table expressions
 
 ## Files Included
 
-- `queries.sql`: Contains all SQL queries used for data exploration.
-- `readme.md`: This readme file providing an overview of the project and instructions.
+- `data and setup` folder: containing datasets and mysql queries to create table and import data
+- `sql queries` folder: Contains all SQL queries used for data exploration.
+- `powerbi_visualization` folder: containing example of power query connection to MySQL database
 
 ## Setup Instructions
 
 To replicate this data exploration:
 1. Ensure you have MySQL installed.
-2. Create a database named `PortfolioProject`.
-3. Import the `CovidDeaths` and `CovidVaccinations` tables into the `PortfolioProject` database.
-4. Run the queries from `queries.sql` in your MySQL environment to perform data analysis.
+2. Create a database named `covid_data`.
+3. Import the `deaths` and `vaccinations` tables into the `covid_data` database.
+4. Run the queries from `sql queries` folder in your MySQL environment to perform data analysis.
 
 ## Notes
 
-- The queries assume the existence of tables `CovidDeaths` and `CovidVaccinations` in the `PortfolioProject` database.
 - Adjust queries as needed for specific database configurations or additional filtering requirements.
 
 This repository serves as a resource for exploring and analyzing Covid-19 data using SQL, focusing on understanding infection rates, death rates, and vaccination progress across different locations and time periods.
