@@ -6,7 +6,8 @@ Data are from the start of the pandemic up to 04/07/2021.
 
 ## Data Report
 
-
+![alt text](screenshots/image.png)
+![alt text](screenshots/image-1.png)
 
 ## Queries Overview
 
